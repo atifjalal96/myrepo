@@ -2,7 +2,7 @@ console.log("hello");
 let a=10;
 if(a)
 {
-  a+=1;
+  a+=10;
 }
 console.log(a);
 
